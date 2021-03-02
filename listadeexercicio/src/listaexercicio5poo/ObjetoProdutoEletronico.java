@@ -9,7 +9,7 @@ public class ObjetoProdutoEletronico {
 		System.out.println(produto.getVoltagem()+"w");
 		System.out.println(produto.getLoja());
 		
-		
+	
 		
 	}
 

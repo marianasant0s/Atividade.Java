@@ -14,7 +14,6 @@ public class Cliente {
 				
 	}
 
-
 	public String getNomeCompleto() {
 		return nomeCompleto;
 	}
