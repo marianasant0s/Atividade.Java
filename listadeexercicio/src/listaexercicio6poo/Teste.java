@@ -1,6 +1,6 @@
 package listaexercicio6poo;
 
-public class Texte {
+public class Teste {
 
 	public static void main(String[] args) 
 	{
@@ -11,7 +11,7 @@ public class Texte {
 		System.out.println(Juliana.getTelefone());
 		System.out.println(Juliana.getAjudaDeCusto());
 		
-			
+		
 	}
 
 }
