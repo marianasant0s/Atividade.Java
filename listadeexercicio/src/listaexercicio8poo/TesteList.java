@@ -7,7 +7,7 @@ public class TesteList {
 
 
 		public static void main(String[] args) {
-
+ 
 	
 			Scanner ler = new Scanner (System.in);
 			List <ExercicioList> lista = new ArrayList <>();
